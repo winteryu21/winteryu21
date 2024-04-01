@@ -1,4 +1,13 @@
-### Hi there 👋
+## 소개
+Hi there 👋
+
+## 이력
+아직 아무것도 없음... 🤔
+
+## 연락처
+- Email: winteryu21@gmail.com
+- Phone Number: 0
+
 
 <!--
 **winteryu21/winteryu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
