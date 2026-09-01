@@ -8,10 +8,3 @@ An old and ailing college student
 
 ## Stats
 ![winteryu21's GitHub stats](https://github-readme-stats-snowy-phi-15.vercel.app/api?username=winteryu21&show_icons=true&theme=dracula)
-
-## Stats
-![winteryu21's GitHub stats](https://github-readme-stats.vercel.app/api?username=winteryu21&show_icons=true&theme=dracula)
-
-![winteryu21's Streak](https://streak-stats.demolab.com?user=winteryu21&theme=dracula)
-
-![winteryu21's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=winteryu21&theme=dracula)
