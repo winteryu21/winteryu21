@@ -8,3 +8,6 @@ An old and ailing college student
 
 ## Stats
 ![winteryu21's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=winteryu21&show_icons=true&theme=dracula)
+
+## Stats
+![winteryu21's GitHub stats](https://github-readme-stats.vercel.app/api?username=winteryu21&show_icons=true&theme=dracula)
